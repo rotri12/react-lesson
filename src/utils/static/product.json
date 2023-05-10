@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Product A",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 19.99,
+    "image": "https://example.com/images/product-a.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Product B",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 29.99,
+    "image": "https://example.com/images/product-b.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Product C",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "price": 39.99,
+    "image": "https://example.com/images/product-c.jpg"
+  }
+]
